@@ -1,4 +1,6 @@
 - 👋 Hi, I’m João Vitor
+- 🎉 I Have 18 years
+- 🌁 I’m From Brazil, São Paulo
 - 🤖 I’m interested in AI
 - 🎓 I’m currently studying data science
 - 😄 Pronouns: He/Him
