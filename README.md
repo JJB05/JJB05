@@ -1,0 +1,4 @@
+- 👋 Hi, I’m João Vitor
+- 🤖 I’m interested in AI
+- 🎓 I’m currently studying data science
+- 😄 Pronouns: He/Him
